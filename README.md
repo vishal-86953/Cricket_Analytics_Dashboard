@@ -17,8 +17,7 @@ app link:
     Connected all the datasets with based on some defined primary keys sucha s team and match ids. Also, created many measures, calculated columns and parameters for data analysis and dashboarding using DAX.
  
 - ### Dashboarding:
-    Craeted final dashboard using Power BI visuals.
-    ```
+    Created final dashboard using Power BI visuals.
 
 ## Tools used:
 - Python -> Beautiful Soup, Pandas
