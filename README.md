@@ -2,7 +2,7 @@
 
 Created a Power BI Dashboard which helps to review and compare performances of all the players in tournament. The dashboard also enables us to select best eleven of the tournament based on their performance and selection criteria
 
-app link: 
+app link: https://cricket-analytics-dashboard.netlify.app/
 
 
 ## Steps:
